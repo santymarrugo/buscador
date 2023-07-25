@@ -1,0 +1,921 @@
+RUN	scala.simulations.Browser.GetDataSimulation	getdatasimulation	1687456750213	 	3.3.1
+USER	Get Data Scenario	1	START	1687456752218	1687456752218
+USER	Get Data Scenario	2	START	1687456752218	1687456752218
+USER	Get Data Scenario	3	START	1687456752246	1687456752246
+USER	Get Data Scenario	4	START	1687456752259	1687456752259
+REQUEST	2		Get Data	1687456752262	1687456752263	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456752264	1687456752266	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456752266	1687456752267	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456752260	1687456752262	KO	j.n.UnknownHostException: Host desconocido (servicesqa.siigo.com )
+USER	Get Data Scenario	5	START	1687456752274	1687456752274
+USER	Get Data Scenario	6	START	1687456752277	1687456752277
+REQUEST	5		Get Data	1687456752276	1687456752277	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456752279	1687456752280	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	7	START	1687456752291	1687456752291
+REQUEST	7		Get Data	1687456752292	1687456752293	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	8	START	1687456752306	1687456752306
+USER	Get Data Scenario	9	START	1687456752306	1687456752306
+REQUEST	8		Get Data	1687456752307	1687456752309	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456752308	1687456752310	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	10	START	1687456752321	1687456752321
+REQUEST	10		Get Data	1687456752323	1687456752325	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	11	START	1687456752337	1687456752337
+USER	Get Data Scenario	12	START	1687456752337	1687456752337
+REQUEST	11		Get Data	1687456752339	1687456752340	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456752340	1687456752341	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	13	START	1687456752352	1687456752352
+REQUEST	13		Get Data	1687456752354	1687456752356	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	14	START	1687456752356	1687456752356
+REQUEST	14		Get Data	1687456752358	1687456752359	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	15	START	1687456752367	1687456752367
+REQUEST	15		Get Data	1687456752369	1687456752370	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	16	START	1687456752383	1687456752383
+REQUEST	16		Get Data	1687456752385	1687456752386	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	17	START	1687456752388	1687456752388
+REQUEST	17		Get Data	1687456752390	1687456752390	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	18	START	1687456752399	1687456752399
+REQUEST	18		Get Data	1687456752401	1687456752401	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	19	START	1687456752414	1687456752414
+USER	Get Data Scenario	20	START	1687456752417	1687456752417
+REQUEST	19		Get Data	1687456752418	1687456752418	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456752420	1687456752421	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	21	START	1687456752430	1687456752430
+REQUEST	21		Get Data	1687456752434	1687456752435	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	22	START	1687456752445	1687456752445
+USER	Get Data Scenario	23	START	1687456752446	1687456752446
+REQUEST	22		Get Data	1687456752447	1687456752447	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456752448	1687456752449	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	24	START	1687456752460	1687456752460
+REQUEST	24		Get Data	1687456752462	1687456752463	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	26	START	1687456752476	1687456752476
+USER	Get Data Scenario	25	START	1687456752476	1687456752476
+REQUEST	25		Get Data	1687456752478	1687456752478	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456752479	1687456752480	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	27	START	1687456752492	1687456752492
+REQUEST	27		Get Data	1687456752493	1687456752494	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	28	START	1687456752496	1687456752496
+REQUEST	28		Get Data	1687456752497	1687456752498	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	29	START	1687456752507	1687456752507
+REQUEST	29		Get Data	1687456752509	1687456752509	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	30	START	1687456752522	1687456752522
+REQUEST	30		Get Data	1687456752524	1687456752524	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	31	START	1687456752526	1687456752526
+REQUEST	31		Get Data	1687456752527	1687456752528	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	32	START	1687456752538	1687456752538
+REQUEST	32		Get Data	1687456752539	1687456752540	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	33	START	1687456752554	1687456752554
+REQUEST	33		Get Data	1687456752555	1687456752556	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	34	START	1687456752556	1687456752556
+REQUEST	34		Get Data	1687456752557	1687456752558	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	35	START	1687456752569	1687456752569
+REQUEST	35		Get Data	1687456752570	1687456752571	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	36	START	1687456752585	1687456752585
+USER	Get Data Scenario	37	START	1687456752586	1687456752586
+REQUEST	36		Get Data	1687456752586	1687456752587	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456752588	1687456752588	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	38	START	1687456752601	1687456752601
+REQUEST	38		Get Data	1687456752602	1687456752602	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	40	START	1687456752616	1687456752616
+USER	Get Data Scenario	39	START	1687456752616	1687456752616
+REQUEST	40		Get Data	1687456752618	1687456752619	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456752621	1687456752621	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	41	START	1687456752631	1687456752631
+REQUEST	41		Get Data	1687456752633	1687456752634	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	42	START	1687456752646	1687456752646
+USER	Get Data Scenario	43	START	1687456752646	1687456752646
+REQUEST	43		Get Data	1687456752648	1687456752648	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456752649	1687456752649	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	45	START	1687456752668	1687456752668
+USER	Get Data Scenario	44	START	1687456752668	1687456752668
+REQUEST	45		Get Data	1687456752670	1687456752670	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456752677	1687456752678	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	46	START	1687456752686	1687456752686
+USER	Get Data Scenario	47	START	1687456752687	1687456752687
+REQUEST	46		Get Data	1687456752687	1687456752687	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456752688	1687456752688	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	49	START	1687456752709	1687456752709
+USER	Get Data Scenario	48	START	1687456752709	1687456752709
+REQUEST	49		Get Data	1687456752710	1687456752711	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456752711	1687456752711	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	50	START	1687456752725	1687456752725
+USER	Get Data Scenario	51	START	1687456752726	1687456752726
+REQUEST	50		Get Data	1687456752726	1687456752726	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456752727	1687456752728	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	52	START	1687456752740	1687456752740
+REQUEST	52		Get Data	1687456752741	1687456752742	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	53	START	1687456752755	1687456752755
+USER	Get Data Scenario	54	START	1687456752756	1687456752756
+REQUEST	53		Get Data	1687456752756	1687456752757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456752757	1687456752757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	55	START	1687456752771	1687456752771
+REQUEST	55		Get Data	1687456752772	1687456752772	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	57	START	1687456752786	1687456752786
+USER	Get Data Scenario	56	START	1687456752786	1687456752786
+REQUEST	57		Get Data	1687456752788	1687456752789	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456752789	1687456752789	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	58	START	1687456752802	1687456752802
+REQUEST	58		Get Data	1687456752803	1687456752803	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	59	START	1687456752806	1687456752806
+REQUEST	59		Get Data	1687456752807	1687456752808	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	60	START	1687456752817	1687456752817
+REQUEST	60		Get Data	1687456752818	1687456752819	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	61	START	1687456752832	1687456752832
+REQUEST	61		Get Data	1687456752833	1687456752834	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	62	START	1687456752836	1687456752836
+REQUEST	62		Get Data	1687456752837	1687456752837	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	63	START	1687456752848	1687456752848
+REQUEST	63		Get Data	1687456752850	1687456752851	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	64	START	1687456752863	1687456752863
+USER	Get Data Scenario	65	START	1687456752866	1687456752866
+REQUEST	64		Get Data	1687456752866	1687456752868	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456752868	1687456752869	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	66	START	1687456752878	1687456752878
+REQUEST	66		Get Data	1687456752881	1687456752882	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	67	START	1687456752894	1687456752894
+REQUEST	67		Get Data	1687456752895	1687456752896	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	68	START	1687456752896	1687456752896
+REQUEST	68		Get Data	1687456752898	1687456752898	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	69	START	1687456752909	1687456752909
+REQUEST	69		Get Data	1687456752911	1687456752911	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	70	START	1687456752925	1687456752925
+USER	Get Data Scenario	71	START	1687456752926	1687456752926
+REQUEST	70		Get Data	1687456752926	1687456752926	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456752927	1687456752927	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	72	START	1687456752940	1687456752940
+REQUEST	72		Get Data	1687456752942	1687456752943	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	74	START	1687456752956	1687456752956
+USER	Get Data Scenario	73	START	1687456752956	1687456752956
+REQUEST	73		Get Data	1687456752958	1687456752958	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456752960	1687456752961	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	75	START	1687456752972	1687456752972
+REQUEST	75		Get Data	1687456752973	1687456752974	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	76	START	1687456752976	1687456752976
+REQUEST	76		Get Data	1687456752977	1687456752977	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	77	START	1687456752987	1687456752987
+REQUEST	77		Get Data	1687456752988	1687456752989	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	78	START	1687456753002	1687456753002
+REQUEST	78		Get Data	1687456753004	1687456753004	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	79	START	1687456753006	1687456753006
+REQUEST	79		Get Data	1687456753007	1687456753007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	80	START	1687456753018	1687456753018
+REQUEST	80		Get Data	1687456753019	1687456753020	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	81	START	1687456753034	1687456753034
+REQUEST	81		Get Data	1687456753036	1687456753036	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	82	START	1687456753036	1687456753036
+REQUEST	82		Get Data	1687456753037	1687456753037	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	83	START	1687456753049	1687456753049
+REQUEST	83		Get Data	1687456753051	1687456753052	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	84	START	1687456753064	1687456753064
+REQUEST	84		Get Data	1687456753066	1687456753066	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	85	START	1687456753066	1687456753066
+REQUEST	85		Get Data	1687456753068	1687456753068	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	86	START	1687456753080	1687456753080
+REQUEST	86		Get Data	1687456753081	1687456753082	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	87	START	1687456753095	1687456753095
+USER	Get Data Scenario	88	START	1687456753096	1687456753096
+REQUEST	87		Get Data	1687456753096	1687456753097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456753097	1687456753098	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	89	START	1687456753111	1687456753111
+REQUEST	89		Get Data	1687456753112	1687456753112	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	91	START	1687456753126	1687456753126
+USER	Get Data Scenario	90	START	1687456753126	1687456753126
+REQUEST	91		Get Data	1687456753127	1687456753128	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456753128	1687456753128	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	92	START	1687456753142	1687456753142
+REQUEST	92		Get Data	1687456753144	1687456753144	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	93	START	1687456753146	1687456753146
+REQUEST	93		Get Data	1687456753147	1687456753148	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	94	START	1687456753158	1687456753158
+REQUEST	94		Get Data	1687456753159	1687456753160	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	95	START	1687456753173	1687456753173
+REQUEST	95		Get Data	1687456753174	1687456753175	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	96	START	1687456753176	1687456753176
+REQUEST	96		Get Data	1687456753177	1687456753177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	97	START	1687456753189	1687456753189
+REQUEST	97		Get Data	1687456753190	1687456753190	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	98	START	1687456753207	1687456753207
+USER	Get Data Scenario	99	START	1687456753208	1687456753208
+REQUEST	98		Get Data	1687456753209	1687456753210	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456753211	1687456753211	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+USER	Get Data Scenario	100	START	1687456753246	1687456753246
+REQUEST	100		Get Data	1687456753247	1687456753247	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456753294	1687456753295	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456753297	1687456753297	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456753298	1687456753298	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456753299	1687456753299	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456753300	1687456753300	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456753299	1687456753300	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456753336	1687456753337	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456753337	1687456753337	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456753337	1687456753338	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456753365	1687456753366	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456753366	1687456753366	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456753366	1687456753366	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456753382	1687456753382	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456753382	1687456753383	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456753403	1687456753404	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456753407	1687456753407	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456753407	1687456753407	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456753419	1687456753419	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456753437	1687456753438	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456753438	1687456753440	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456753449	1687456753450	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456753467	1687456753468	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456753469	1687456753469	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456753480	1687456753480	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456753497	1687456753497	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456753498	1687456753498	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456753498	1687456753499	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456753527	1687456753527	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456753527	1687456753527	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456753527	1687456753528	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456753557	1687456753558	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456753558	1687456753558	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456753577	1687456753577	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456753577	1687456753577	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456753588	1687456753588	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456753607	1687456753607	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456753607	1687456753608	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456753635	1687456753636	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456753636	1687456753637	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456753637	1687456753637	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456753665	1687456753666	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456753680	1687456753681	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456753681	1687456753681	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456753697	1687456753697	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456753698	1687456753698	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456753732	1687456753733	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456753734	1687456753735	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456753735	1687456753736	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456753736	1687456753736	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456753758	1687456753758	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456753758	1687456753759	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456753759	1687456753759	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456753777	1687456753777	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456753777	1687456753777	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456753804	1687456753805	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456753807	1687456753807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456753807	1687456753808	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456753808	1687456753808	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456753835	1687456753836	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456753836	1687456753837	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456753837	1687456753837	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456753867	1687456753868	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456753868	1687456753869	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456753887	1687456753887	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456753887	1687456753887	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456753897	1687456753898	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456753917	1687456753918	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456753918	1687456753919	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456753928	1687456753929	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456753948	1687456753949	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456753949	1687456753949	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456753976	1687456753976	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456753977	1687456753979	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456753980	1687456753980	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456753980	1687456753981	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456754006	1687456754007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456754007	1687456754007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456754007	1687456754008	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456754036	1687456754037	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456754037	1687456754037	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456754067	1687456754068	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456754068	1687456754068	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456754068	1687456754069	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456754096	1687456754097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456754097	1687456754097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456754097	1687456754097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456754117	1687456754118	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456754118	1687456754118	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456754143	1687456754143	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456754147	1687456754147	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456754147	1687456754147	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456754158	1687456754158	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456754174	1687456754174	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456754176	1687456754177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456754177	1687456754177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456754205	1687456754205	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456754220	1687456754221	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456754251	1687456754251	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456754251	1687456754252	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456754297	1687456754297	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456754297	1687456754298	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456754312	1687456754313	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456754313	1687456754313	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456754313	1687456754313	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456754313	1687456754314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456754314	1687456754314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456754314	1687456754314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456754327	1687456754328	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456754328	1687456754328	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456754347	1687456754347	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456754359	1687456754359	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456754359	1687456754359	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456754376	1687456754377	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456754390	1687456754390	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456754390	1687456754391	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456754421	1687456754422	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456754422	1687456754422	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456754436	1687456754437	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456754451	1687456754452	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456754452	1687456754452	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456754467	1687456754467	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456754483	1687456754483	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456754483	1687456754483	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456754486	1687456754487	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456754514	1687456754514	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456754514	1687456754514	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456754517	1687456754518	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456754529	1687456754529	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456754545	1687456754545	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456754546	1687456754547	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456754560	1687456754561	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456754576	1687456754576	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456754576	1687456754577	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456754592	1687456754593	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456754596	1687456754597	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456754623	1687456754623	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456754622	1687456754623	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456754626	1687456754627	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456754654	1687456754655	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456754655	1687456754655	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456754670	1687456754670	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456754670	1687456754671	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456754671	1687456754671	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456754701	1687456754701	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456754701	1687456754702	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456754701	1687456754702	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456754716	1687456754717	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456754717	1687456754717	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456754749	1687456754749	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456754749	1687456754750	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456754764	1687456754765	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456754766	1687456754767	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456754779	1687456754779	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456754780	1687456754780	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456754795	1687456754795	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456754825	1687456754826	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456754826	1687456754826	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456754826	1687456754826	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456754840	1687456754841	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456754856	1687456754856	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456754856	1687456754857	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456754871	1687456754872	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456754886	1687456754887	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456754902	1687456754902	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456754902	1687456754902	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456754906	1687456754907	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456754932	1687456754933	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456754933	1687456754933	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456754937	1687456754937	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456754948	1687456754948	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456754963	1687456754964	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456754967	1687456754968	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456754995	1687456754995	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456754994	1687456754995	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456754996	1687456754997	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456755011	1687456755012	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456755026	1687456755027	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456755027	1687456755027	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456755041	1687456755042	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456755057	1687456755057	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456755072	1687456755073	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456755073	1687456755073	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456755076	1687456755077	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456755088	1687456755088	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456755103	1687456755104	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456755106	1687456755107	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456755134	1687456755135	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456755134	1687456755135	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456755135	1687456755135	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456755165	1687456755166	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456755166	1687456755167	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456755167	1687456755168	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456755168	1687456755169	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456755196	1687456755196	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456755196	1687456755197	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456755197	1687456755197	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456755217	1687456755217	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456755217	1687456755218	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456755218	1687456755218	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456755275	1687456755276	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456755305	1687456755306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456755306	1687456755306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456755306	1687456755306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456755306	1687456755307	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456755307	1687456755307	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456755307	1687456755307	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456755307	1687456755307	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456755336	1687456755337	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456755337	1687456755337	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456755368	1687456755369	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456755369	1687456755370	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456755369	1687456755370	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456755384	1687456755384	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456755387	1687456755387	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456755400	1687456755400	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456755415	1687456755416	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456755416	1687456755417	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456755431	1687456755431	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456755462	1687456755462	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456755462	1687456755462	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456755463	1687456755463	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456755467	1687456755468	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456755467	1687456755468	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456755492	1687456755493	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456755493	1687456755493	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456755493	1687456755493	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456755523	1687456755524	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456755526	1687456755527	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456755527	1687456755527	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456755554	1687456755554	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456755556	1687456755557	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456755569	1687456755569	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456755569	1687456755569	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456755586	1687456755587	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456755600	1687456755600	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456755600	1687456755601	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456755601	1687456755601	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456755631	1687456755631	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456755631	1687456755632	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456755632	1687456755632	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456755662	1687456755662	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456755677	1687456755677	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456755677	1687456755677	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456755697	1687456755697	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456755708	1687456755708	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456755723	1687456755724	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456755724	1687456755724	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456755739	1687456755740	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456755740	1687456755740	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456755740	1687456755740	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456755757	1687456755757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456755770	1687456755771	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456755771	1687456755771	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456755787	1687456755787	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456755800	1687456755801	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456755817	1687456755818	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456755818	1687456755818	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456755832	1687456755832	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456755832	1687456755833	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456755848	1687456755848	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456755863	1687456755863	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456755863	1687456755864	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456755878	1687456755878	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456755878	1687456755879	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456755879	1687456755879	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456755910	1687456755910	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456755910	1687456755910	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456755910	1687456755911	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456755941	1687456755941	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456755941	1687456755941	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456755956	1687456755956	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456755972	1687456755972	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456755972	1687456755973	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456755973	1687456755973	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456756003	1687456756003	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456756007	1687456756007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456756018	1687456756019	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456756036	1687456756037	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456756037	1687456756037	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456756048	1687456756049	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456756049	1687456756049	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456756049	1687456756049	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456756080	1687456756080	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456756080	1687456756080	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456756095	1687456756095	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456756110	1687456756111	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456756111	1687456756111	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456756111	1687456756111	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456756126	1687456756126	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456756147	1687456756147	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456756157	1687456756158	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456756173	1687456756173	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456756176	1687456756177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456756189	1687456756189	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456756204	1687456756205	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456756206	1687456756207	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456756220	1687456756221	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456756236	1687456756237	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456756237	1687456756237	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456756283	1687456756283	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456756314	1687456756314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456756314	1687456756314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456756314	1687456756315	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456756315	1687456756315	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456756316	1687456756316	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456756316	1687456756317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456756329	1687456756330	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456756346	1687456756346	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456756346	1687456756347	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456756360	1687456756360	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456756376	1687456756376	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456756376	1687456756376	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456756376	1687456756376	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456756391	1687456756391	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456756406	1687456756407	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456756421	1687456756422	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456756422	1687456756422	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456756426	1687456756427	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456756437	1687456756437	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456756437	1687456756438	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456756457	1687456756457	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456756457	1687456756457	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456756468	1687456756469	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456756483	1687456756485	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456756486	1687456756487	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456756498	1687456756498	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456756516	1687456756517	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456756529	1687456756530	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456756530	1687456756530	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456756545	1687456756545	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456756560	1687456756561	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456756576	1687456756577	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456756592	1687456756592	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456756592	1687456756592	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456756596	1687456756597	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456756607	1687456756607	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456756622	1687456756623	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456756626	1687456756627	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456756654	1687456756654	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456756654	1687456756654	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456756654	1687456756654	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456756684	1687456756685	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456756686	1687456756686	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456756699	1687456756700	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456756700	1687456756700	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456756715	1687456756715	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456756715	1687456756716	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456756745	1687456756745	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456756746	1687456756746	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456756761	1687456756762	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456756762	1687456756762	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456756776	1687456756777	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456756792	1687456756792	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456756792	1687456756793	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456756796	1687456756797	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456756823	1687456756823	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456756823	1687456756824	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456756824	1687456756824	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456756824	1687456756824	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456756854	1687456756854	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456756854	1687456756854	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456756856	1687456756856	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456756886	1687456756887	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456756901	1687456756902	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456756902	1687456756902	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456756916	1687456756916	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456756932	1687456756933	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456756933	1687456756933	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456756936	1687456756937	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456756964	1687456756964	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456756964	1687456756964	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456756964	1687456756965	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456756980	1687456756980	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456756980	1687456756981	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456756995	1687456756996	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456757011	1687456757011	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456757026	1687456757027	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456757042	1687456757042	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456757042	1687456757042	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456757046	1687456757047	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456757072	1687456757072	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456757072	1687456757073	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456757077	1687456757077	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456757103	1687456757104	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456757104	1687456757104	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456757106	1687456757107	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456757135	1687456757136	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456757136	1687456757136	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456757136	1687456757136	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456757166	1687456757166	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456757166	1687456757166	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456757166	1687456757166	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456757180	1687456757181	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456757196	1687456757197	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456757197	1687456757197	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456757212	1687456757212	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456757216	1687456757217	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456757243	1687456757244	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456757244	1687456757244	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456757274	1687456757275	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456757290	1687456757290	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456757305	1687456757306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456757306	1687456757306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456757306	1687456757306	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456757321	1687456757322	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456757322	1687456757322	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456757322	1687456757322	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456757336	1687456757337	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456757352	1687456757352	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456757356	1687456757357	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456757383	1687456757384	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456757384	1687456757385	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456757386	1687456757386	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456757386	1687456757387	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456757399	1687456757399	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456757399	1687456757399	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456757415	1687456757415	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456757429	1687456757429	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456757446	1687456757447	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456757460	1687456757460	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456757475	1687456757476	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456757476	1687456757477	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456757476	1687456757477	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456757477	1687456757477	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456757506	1687456757507	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456757507	1687456757507	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456757537	1687456757538	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456757538	1687456757538	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456757538	1687456757538	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456757538	1687456757538	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456757556	1687456757557	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456757572	1687456757572	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456757572	1687456757572	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456757576	1687456757577	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456757599	1687456757599	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456757615	1687456757615	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456757616	1687456757616	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456757630	1687456757630	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456757630	1687456757631	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456757646	1687456757646	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456757646	1687456757646	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456757678	1687456757678	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456757679	1687456757679	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456757696	1687456757697	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456757697	1687456757697	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456757724	1687456757724	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456757724	1687456757725	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456757726	1687456757726	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456757726	1687456757727	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456757756	1687456757757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456757757	1687456757757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456757771	1687456757771	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456757771	1687456757771	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456757787	1687456757787	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456757806	1687456757807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456757807	1687456757807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456757807	1687456757807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456757817	1687456757818	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456757818	1687456757818	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456757833	1687456757833	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456757848	1687456757849	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456757866	1687456757867	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456757895	1687456757895	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456757896	1687456757896	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456757896	1687456757897	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456757911	1687456757911	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456757911	1687456757911	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456757926	1687456757926	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456757941	1687456757942	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456757942	1687456757942	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456757942	1687456757942	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456757957	1687456757957	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456757988	1687456757989	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456757989	1687456757989	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456758006	1687456758007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456758007	1687456758007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456758019	1687456758019	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456758019	1687456758019	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456758019	1687456758020	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456758051	1687456758051	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456758051	1687456758051	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456758067	1687456758067	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456758082	1687456758082	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456758082	1687456758082	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456758086	1687456758086	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456758112	1687456758112	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456758128	1687456758128	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456758128	1687456758129	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456758143	1687456758143	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456758158	1687456758159	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456758159	1687456758159	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456758176	1687456758177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456758177	1687456758177	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456758190	1687456758190	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456758190	1687456758190	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456758206	1687456758207	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456758221	1687456758221	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456758237	1687456758237	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456758237	1687456758237	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456758267	1687456758268	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456758314	1687456758314	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456758316	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456758316	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456758317	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456758317	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456758317	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456758317	1687456758317	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456758330	1687456758330	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456758346	1687456758347	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456758361	1687456758361	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456758361	1687456758361	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456758361	1687456758361	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456758392	1687456758392	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456758392	1687456758393	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456758396	1687456758397	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456758407	1687456758407	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456758422	1687456758423	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456758426	1687456758427	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456758454	1687456758454	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456758454	1687456758454	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456758468	1687456758469	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456758484	1687456758484	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456758486	1687456758487	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456758500	1687456758500	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456758520	1687456758521	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456758521	1687456758521	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456758545	1687456758545	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456758545	1687456758546	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456758546	1687456758546	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456758560	1687456758560	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456758560	1687456758560	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456758560	1687456758561	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456758575	1687456758576	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456758606	1687456758606	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456758606	1687456758606	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456758606	1687456758606	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456758621	1687456758621	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456758637	1687456758637	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456758652	1687456758653	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456758656	1687456758657	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456758668	1687456758668	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456758683	1687456758683	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456758683	1687456758683	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456758713	1687456758713	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456758713	1687456758714	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456758714	1687456758714	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456758714	1687456758714	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456758747	1687456758747	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456758747	1687456758748	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456758759	1687456758760	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456758760	1687456758760	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456758777	1687456758778	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456758806	1687456758806	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456758806	1687456758807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456758806	1687456758807	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456758837	1687456758838	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456758838	1687456758838	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456758838	1687456758838	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456758838	1687456758838	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456758838	1687456758838	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456758868	1687456758869	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456758869	1687456758869	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456758869	1687456758869	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456758899	1687456758900	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456758914	1687456758915	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456758915	1687456758915	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456758930	1687456758930	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456758930	1687456758931	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456758947	1687456758948	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456758975	1687456758976	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456758976	1687456758976	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456758976	1687456758976	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456758991	1687456758991	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456759007	1687456759007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456759007	1687456759007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456759007	1687456759007	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456759022	1687456759022	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456759038	1687456759038	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456759038	1687456759039	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456759057	1687456759057	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456759070	1687456759070	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456759085	1687456759086	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456759086	1687456759086	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456759086	1687456759086	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456759086	1687456759087	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456759101	1687456759101	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456759132	1687456759133	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456759133	1687456759133	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456759133	1687456759133	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456759164	1687456759164	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456759164	1687456759164	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456759179	1687456759179	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456759179	1687456759179	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456759194	1687456759194	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456759210	1687456759211	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456759211	1687456759211	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456759226	1687456759227	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456759241	1687456759241	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456759241	1687456759242	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456759276	1687456759277	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456759288	1687456759288	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456759320	1687456759320	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456759320	1687456759320	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456759320	1687456759321	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456759321	1687456759321	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456759321	1687456759321	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456759336	1687456759336	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456759351	1687456759351	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456759351	1687456759352	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456759367	1687456759367	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456759367	1687456759367	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456759367	1687456759368	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456759383	1687456759383	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456759383	1687456759383	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456759413	1687456759414	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456759414	1687456759414	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456759429	1687456759430	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456759444	1687456759445	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456759445	1687456759445	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456759445	1687456759445	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	22		Get Data	1687456759476	1687456759476	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	21		Get Data	1687456759476	1687456759476	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	23		Get Data	1687456759491	1687456759491	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	27		Get Data	1687456759507	1687456759507	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	24		Get Data	1687456759507	1687456759508	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	26		Get Data	1687456759522	1687456759523	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	25		Get Data	1687456759522	1687456759523	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	28		Get Data	1687456759523	1687456759523	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	29		Get Data	1687456759553	1687456759553	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	30		Get Data	1687456759557	1687456759558	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	31		Get Data	1687456759557	1687456759558	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	32		Get Data	1687456759568	1687456759569	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	33		Get Data	1687456759587	1687456759587	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	34		Get Data	1687456759587	1687456759587	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	35		Get Data	1687456759616	1687456759616	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	37		Get Data	1687456759616	1687456759617	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	36		Get Data	1687456759631	1687456759631	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	38		Get Data	1687456759631	1687456759631	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	40		Get Data	1687456759646	1687456759647	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	39		Get Data	1687456759662	1687456759662	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	41		Get Data	1687456759666	1687456759667	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	43		Get Data	1687456759667	1687456759667	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	42		Get Data	1687456759667	1687456759667	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	45		Get Data	1687456759693	1687456759693	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	44		Get Data	1687456759696	1687456759696	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	47		Get Data	1687456759708	1687456759708	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	46		Get Data	1687456759708	1687456759708	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	48		Get Data	1687456759754	1687456759754	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	49		Get Data	1687456759754	1687456759754	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	51		Get Data	1687456759756	1687456759756	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	50		Get Data	1687456759756	1687456759757	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	52		Get Data	1687456759785	1687456759785	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	54		Get Data	1687456759786	1687456759787	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	53		Get Data	1687456759787	1687456759787	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	55		Get Data	1687456759820	1687456759820	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	57		Get Data	1687456759832	1687456759833	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	56		Get Data	1687456759833	1687456759833	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	59		Get Data	1687456759836	1687456759837	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	58		Get Data	1687456759837	1687456759837	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	60		Get Data	1687456759849	1687456759849	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	61		Get Data	1687456759867	1687456759867	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	62		Get Data	1687456759868	1687456759868	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	65		Get Data	1687456759892	1687456759892	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	63		Get Data	1687456759892	1687456759893	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	64		Get Data	1687456759896	1687456759897	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	66		Get Data	1687456759896	1687456759897	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	67		Get Data	1687456759926	1687456759927	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	68		Get Data	1687456759927	1687456759927	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	70		Get Data	1687456759938	1687456759939	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	69		Get Data	1687456759954	1687456759954	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	71		Get Data	1687456759969	1687456759969	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	72		Get Data	1687456759984	1687456759985	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	73		Get Data	1687456760001	1687456760001	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	74		Get Data	1687456760001	1687456760002	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	76		Get Data	1687456760015	1687456760015	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	75		Get Data	1687456760015	1687456760016	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	77		Get Data	1687456760016	1687456760016	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	79		Get Data	1687456760047	1687456760048	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	80		Get Data	1687456760048	1687456760048	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	78		Get Data	1687456760048	1687456760048	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	82		Get Data	1687456760067	1687456760067	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	81		Get Data	1687456760067	1687456760067	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	83		Get Data	1687456760094	1687456760094	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	84		Get Data	1687456760096	1687456760097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	85		Get Data	1687456760097	1687456760097	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	87		Get Data	1687456760125	1687456760125	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	88		Get Data	1687456760125	1687456760125	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	86		Get Data	1687456760126	1687456760126	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	89		Get Data	1687456760126	1687456760126	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	91		Get Data	1687456760155	1687456760155	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	90		Get Data	1687456760155	1687456760156	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	94		Get Data	1687456760187	1687456760187	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	93		Get Data	1687456760187	1687456760187	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	92		Get Data	1687456760187	1687456760187	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	95		Get Data	1687456760202	1687456760202	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	96		Get Data	1687456760206	1687456760207	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	97		Get Data	1687456760233	1687456760234	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	99		Get Data	1687456760249	1687456760249	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	98		Get Data	1687456760249	1687456760249	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	100		Get Data	1687456760295	1687456760295	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	3		Get Data	1687456760311	1687456760311	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	2		Get Data	1687456760311	1687456760311	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	4		Get Data	1687456760311	1687456760312	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	1		Get Data	1687456760312	1687456760312	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	6		Get Data	1687456760327	1687456760327	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	5		Get Data	1687456760327	1687456760327	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	7		Get Data	1687456760327	1687456760327	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	8		Get Data	1687456760346	1687456760347	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	9		Get Data	1687456760348	1687456760348	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	10		Get Data	1687456760357	1687456760357	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	11		Get Data	1687456760376	1687456760377	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	12		Get Data	1687456760377	1687456760377	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	14		Get Data	1687456760377	1687456760377	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	13		Get Data	1687456760377	1687456760377	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	15		Get Data	1687456760388	1687456760388	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	16		Get Data	1687456760406	1687456760407	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	18		Get Data	1687456760419	1687456760419	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	17		Get Data	1687456760419	1687456760419	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	20		Get Data	1687456760436	1687456760437	KO	j.n.UnknownHostException: servicesqa.siigo.com 
+REQUEST	19		Get Data	1687456760437	1687456760437	KO	

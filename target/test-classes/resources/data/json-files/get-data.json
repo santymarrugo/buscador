@@ -1,0 +1,7 @@
+{
+  "type": 1,
+  "browserID": "${browserID}",
+  "query": "${query}",
+  "filter": "",
+  "tags": {}
+}

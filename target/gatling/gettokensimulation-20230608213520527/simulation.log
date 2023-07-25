@@ -1,0 +1,16 @@
+RUN	simulations.GetTokenSimulation	gettokensimulation	1686260120527	 	3.3.1
+USER	Get Token Scenario	1	START	1686260121990	1686260121990
+USER	Get Token Scenario	2	START	1686260122210	1686260122210
+REQUEST	1		GetToken	1686260122020	1686260122300	KO	jsonPath($.access_token).find.exists, found nothing
+REQUEST	2		GetToken	1686260122211	1686260122398	KO	jsonPath($.access_token).find.exists, found nothing
+USER	Get Token Scenario	3	START	1686260122412	1686260122412
+REQUEST	3		GetToken	1686260122414	1686260122610	KO	jsonPath($.access_token).find.exists, found nothing
+USER	Get Token Scenario	4	START	1686260122615	1686260122615
+REQUEST	4		GetToken	1686260122616	1686260122797	KO	jsonPath($.access_token).find.exists, found nothing
+USER	Get Token Scenario	5	START	1686260122817	1686260122817
+REQUEST	5		GetToken	1686260122818	1686260122993	KO	jsonPath($.access_token).find.exists, found nothing
+USER	Get Token Scenario	1	END	1686260121990	1686260125338
+USER	Get Token Scenario	2	END	1686260122210	1686260125429
+USER	Get Token Scenario	3	END	1686260122412	1686260125620
+USER	Get Token Scenario	4	END	1686260122615	1686260125818
+USER	Get Token Scenario	5	END	1686260122817	1686260126019

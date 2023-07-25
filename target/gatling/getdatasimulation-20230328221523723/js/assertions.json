@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.Browser.GetDataSimulation",
+  "simulationId": "getdatasimulation",
+  "start": 1680041723723,
+  "description": "Test2 Grafana APM - Loki",
+  "scenarios": ["Get Data Scenario"],
+  "assertions": [
+
+  ]
+}

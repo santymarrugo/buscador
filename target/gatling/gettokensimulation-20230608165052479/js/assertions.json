@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetTokenSimulation",
+  "simulationId": "gettokensimulation",
+  "start": 1686243052479,
+  "description": "",
+  "scenarios": ["Get Token Scenario"],
+  "assertions": [
+
+  ]
+}

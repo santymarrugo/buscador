@@ -1,0 +1,183 @@
+RUN	scala.simulations.Browser.GetDataSimulation	getdatasimulation	1686773731937	 	3.3.1
+USER	Get Data Scenario	1	START	1686773733916	1686773733916
+USER	Get Data Scenario	2	START	1686773734051	1686773734051
+USER	Get Data Scenario	3	START	1686773734221	1686773734221
+USER	Get Data Scenario	4	START	1686773734358	1686773734358
+USER	Get Data Scenario	5	START	1686773734515	1686773734515
+USER	Get Data Scenario	6	START	1686773734651	1686773734651
+USER	Get Data Scenario	7	START	1686773734791	1686773734791
+USER	Get Data Scenario	8	START	1686773734930	1686773734930
+USER	Get Data Scenario	9	START	1686773735102	1686773735102
+REQUEST	6		Get Data	1686773734653	1686773735030	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773733987	1686773735030	KO	status.find.is(200), but actually found 401
+REQUEST	2		Get Data	1686773734053	1686773735149	KO	status.find.is(200), but actually found 401
+REQUEST	7		Get Data	1686773734792	1686773735153	KO	status.find.is(200), but actually found 401
+REQUEST	3		Get Data	1686773734223	1686773735153	KO	status.find.is(200), but actually found 401
+REQUEST	4		Get Data	1686773734360	1686773735187	KO	status.find.is(200), but actually found 401
+REQUEST	5		Get Data	1686773734517	1686773735209	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	10	START	1686773735269	1686773735269
+USER	Get Data Scenario	11	START	1686773735438	1686773735438
+USER	Get Data Scenario	12	START	1686773735598	1686773735598
+REQUEST	10		Get Data	1686773735271	1686773735620	KO	status.find.is(200), but actually found 401
+REQUEST	8		Get Data	1686773734932	1686773735622	KO	status.find.is(200), but actually found 401
+REQUEST	11		Get Data	1686773735441	1686773735652	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	13	START	1686773735777	1686773735777
+REQUEST	9		Get Data	1686773735104	1686773735836	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	14	START	1686773735932	1686773735932
+USER	Get Data Scenario	15	START	1686773736084	1686773736084
+REQUEST	6		Get Data	1686773736054	1686773736149	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773736055	1686773736213	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	16	START	1686773736253	1686773736253
+REQUEST	2		Get Data	1686773736180	1686773736286	KO	status.find.is(200), but actually found 401
+REQUEST	15		Get Data	1686773736087	1686773736344	KO	status.find.is(200), but actually found 401
+REQUEST	5		Get Data	1686773736238	1686773736397	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	17	START	1686773736408	1686773736408
+REQUEST	16		Get Data	1686773736255	1686773736456	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	18	START	1686773736580	1686773736580
+USER	Get Data Scenario	19	START	1686773736762	1686773736762
+REQUEST	18		Get Data	1686773736582	1686773736796	KO	status.find.is(200), but actually found 401
+REQUEST	11		Get Data	1686773736659	1686773736807	KO	status.find.is(200), but actually found 401
+REQUEST	8		Get Data	1686773736629	1686773736839	KO	status.find.is(200), but actually found 401
+REQUEST	13		Get Data	1686773735779	1686773736839	KO	status.find.is(200), but actually found 401
+REQUEST	12		Get Data	1686773735600	1686773736840	KO	status.find.is(200), but actually found 401
+REQUEST	17		Get Data	1686773736410	1686773736839	KO	status.find.is(200), but actually found 401
+REQUEST	7		Get Data	1686773736177	1686773736841	KO	status.find.is(200), but actually found 401
+REQUEST	10		Get Data	1686773736630	1686773736840	KO	status.find.is(200), but actually found 401
+REQUEST	14		Get Data	1686773735935	1686773736841	KO	status.find.is(200), but actually found 401
+REQUEST	3		Get Data	1686773736179	1686773736841	KO	status.find.is(200), but actually found 401
+REQUEST	4		Get Data	1686773736208	1686773736841	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	20	START	1686773736909	1686773736909
+REQUEST	9		Get Data	1686773736874	1686773736969	KO	status.find.is(200), but actually found 401
+REQUEST	19		Get Data	1686773736763	1686773737038	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	21	START	1686773737082	1686773737082
+REQUEST	20		Get Data	1686773736910	1686773737101	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	22	START	1686773737251	1686773737251
+REQUEST	6		Get Data	1686773737149	1686773737251	KO	status.find.is(200), but actually found 401
+REQUEST	21		Get Data	1686773737084	1686773737272	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773737210	1686773737302	KO	status.find.is(200), but actually found 401
+REQUEST	2		Get Data	1686773737272	1686773737364	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	23	START	1686773737417	1686773737417
+REQUEST	22		Get Data	1686773737253	1686773737432	KO	status.find.is(200), but actually found 401
+REQUEST	15		Get Data	1686773737356	1686773737464	KO	status.find.is(200), but actually found 401
+REQUEST	5		Get Data	1686773737389	1686773737489	KO	status.find.is(200), but actually found 401
+REQUEST	16		Get Data	1686773737465	1686773737566	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	24	START	1686773737587	1686773737587
+REQUEST	23		Get Data	1686773737419	1686773737716	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	25	START	1686773737757	1686773737757
+REQUEST	24		Get Data	1686773737590	1686773737777	KO	status.find.is(200), but actually found 401
+REQUEST	18		Get Data	1686773737820	1686773737911	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	26	START	1686773737912	1686773737912
+REQUEST	11		Get Data	1686773737839	1686773737934	KO	status.find.is(200), but actually found 401
+REQUEST	25		Get Data	1686773737759	1686773737943	KO	status.find.is(200), but actually found 401
+REQUEST	3		Get Data	1686773737867	1686773737962	KO	status.find.is(200), but actually found 401
+REQUEST	8		Get Data	1686773737883	1686773737976	KO	status.find.is(200), but actually found 401
+REQUEST	4		Get Data	1686773737866	1686773737976	KO	status.find.is(200), but actually found 401
+REQUEST	12		Get Data	1686773737886	1686773737979	KO	status.find.is(200), but actually found 401
+REQUEST	17		Get Data	1686773737884	1686773737979	KO	status.find.is(200), but actually found 401
+REQUEST	13		Get Data	1686773737886	1686773737979	KO	status.find.is(200), but actually found 401
+REQUEST	10		Get Data	1686773737885	1686773737980	KO	status.find.is(200), but actually found 401
+REQUEST	7		Get Data	1686773737868	1686773737980	KO	status.find.is(200), but actually found 401
+REQUEST	14		Get Data	1686773737885	1686773737980	KO	status.find.is(200), but actually found 401
+REQUEST	9		Get Data	1686773737950	1686773738043	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	27	START	1686773738052	1686773738052
+REQUEST	26		Get Data	1686773737914	1686773738088	KO	status.find.is(200), but actually found 401
+REQUEST	19		Get Data	1686773738068	1686773738161	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	28	START	1686773738204	1686773738204
+REQUEST	20		Get Data	1686773738128	1686773738222	KO	status.find.is(200), but actually found 401
+REQUEST	27		Get Data	1686773738054	1686773738240	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	29	START	1686773738343	1686773738343
+REQUEST	6		Get Data	1686773738253	1686773738346	KO	status.find.is(200), but actually found 401
+REQUEST	28		Get Data	1686773738206	1686773738383	KO	status.find.is(200), but actually found 401
+REQUEST	21		Get Data	1686773738299	1686773738402	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773738313	1686773738409	KO	status.find.is(200), but actually found 401
+REQUEST	2		Get Data	1686773738377	1686773738472	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	30	START	1686773738481	1686773738481
+REQUEST	29		Get Data	1686773738344	1686773738545	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	31	START	1686773738636	1686773738636
+REQUEST	30		Get Data	1686773738483	1686773738664	KO	status.find.is(200), but actually found 401
+REQUEST	16		Get Data	1686773738579	1686773738670	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	32	START	1686773738774	1686773738774
+REQUEST	31		Get Data	1686773738638	1686773738820	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	33	START	1686773738913	1686773738913
+REQUEST	18		Get Data	1686773738900	1686773738997	KO	status.find.is(200), but actually found 401
+REQUEST	11		Get Data	1686773738929	1686773739027	KO	status.find.is(200), but actually found 401
+REQUEST	8		Get Data	1686773738945	1686773739040	KO	status.find.is(200), but actually found 401
+REQUEST	14		Get Data	1686773738962	1686773739055	KO	status.find.is(200), but actually found 401
+REQUEST	12		Get Data	1686773738960	1686773739056	KO	status.find.is(200), but actually found 401
+REQUEST	13		Get Data	1686773738960	1686773739059	KO	status.find.is(200), but actually found 401
+REQUEST	7		Get Data	1686773738961	1686773739073	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	34	START	1686773739082	1686773739082
+REQUEST	23		Get Data	1686773738729	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	10		Get Data	1686773738949	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	5		Get Data	1686773738498	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	24		Get Data	1686773738791	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	22		Get Data	1686773738452	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	17		Get Data	1686773738961	1686773739120	KO	status.find.is(200), but actually found 401
+REQUEST	4		Get Data	1686773738944	1686773739121	KO	status.find.is(200), but actually found 401
+REQUEST	32		Get Data	1686773738776	1686773739121	KO	status.find.is(200), but actually found 401
+REQUEST	25		Get Data	1686773738949	1686773739122	KO	status.find.is(200), but actually found 401
+REQUEST	3		Get Data	1686773738945	1686773739122	KO	status.find.is(200), but actually found 401
+REQUEST	15		Get Data	1686773738467	1686773739124	KO	status.find.is(200), but actually found 401
+REQUEST	33		Get Data	1686773738914	1686773739150	KO	status.find.is(200), but actually found 401
+REQUEST	26		Get Data	1686773739099	1686773739193	KO	status.find.is(200), but actually found 401
+REQUEST	9		Get Data	1686773739052	1686773739198	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	35	START	1686773739251	1686773739251
+REQUEST	34		Get Data	1686773739083	1686773739261	KO	status.find.is(200), but actually found 401
+REQUEST	19		Get Data	1686773739159	1686773739307	KO	status.find.is(200), but actually found 401
+REQUEST	20		Get Data	1686773739221	1686773739314	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	36	START	1686773739419	1686773739419
+REQUEST	27		Get Data	1686773739267	1686773739428	KO	status.find.is(200), but actually found 401
+REQUEST	35		Get Data	1686773739253	1686773739433	KO	status.find.is(200), but actually found 401
+REQUEST	6		Get Data	1686773739359	1686773739451	KO	status.find.is(200), but actually found 401
+REQUEST	21		Get Data	1686773739389	1686773739491	KO	status.find.is(200), but actually found 401
+REQUEST	28		Get Data	1686773739410	1686773739506	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773739409	1686773739506	KO	status.find.is(200), but actually found 401
+REQUEST	2		Get Data	1686773739469	1686773739564	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	37	START	1686773739587	1686773739587
+REQUEST	36		Get Data	1686773739421	1686773739596	KO	status.find.is(200), but actually found 401
+REQUEST	29		Get Data	1686773739557	1686773739669	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	38	START	1686773739758	1686773739758
+REQUEST	30		Get Data	1686773739671	1686773739763	KO	status.find.is(200), but actually found 401
+REQUEST	16		Get Data	1686773739672	1686773739765	KO	status.find.is(200), but actually found 401
+REQUEST	37		Get Data	1686773739588	1686773739771	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	39	START	1686773739925	1686773739925
+REQUEST	31		Get Data	1686773739840	1686773739930	KO	status.find.is(200), but actually found 401
+REQUEST	38		Get Data	1686773739759	1686773739938	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	40	START	1686773740079	1686773740079
+REQUEST	18		Get Data	1686773740003	1686773740095	KO	status.find.is(200), but actually found 401
+REQUEST	39		Get Data	1686773739927	1686773740102	KO	status.find.is(200), but actually found 401
+REQUEST	11		Get Data	1686773740018	1686773740110	KO	status.find.is(200), but actually found 401
+REQUEST	13		Get Data	1686773740052	1686773740144	KO	status.find.is(200), but actually found 401
+REQUEST	14		Get Data	1686773740050	1686773740146	KO	status.find.is(200), but actually found 401
+REQUEST	8		Get Data	1686773740049	1686773740147	KO	status.find.is(200), but actually found 401
+REQUEST	12		Get Data	1686773740051	1686773740157	KO	status.find.is(200), but actually found 401
+REQUEST	7		Get Data	1686773740069	1686773740169	KO	status.find.is(200), but actually found 401
+REQUEST	5		Get Data	1686773740110	1686773740203	KO	status.find.is(200), but actually found 401
+REQUEST	17		Get Data	1686773740111	1686773740204	KO	status.find.is(200), but actually found 401
+REQUEST	3		Get Data	1686773740110	1686773740207	KO	status.find.is(200), but actually found 401
+REQUEST	10		Get Data	1686773740125	1686773740216	KO	status.find.is(200), but actually found 401
+REQUEST	23		Get Data	1686773740126	1686773740218	KO	status.find.is(200), but actually found 401
+REQUEST	4		Get Data	1686773740126	1686773740218	KO	status.find.is(200), but actually found 401
+REQUEST	15		Get Data	1686773740127	1686773740220	KO	status.find.is(200), but actually found 401
+REQUEST	24		Get Data	1686773740125	1686773740220	KO	status.find.is(200), but actually found 401
+REQUEST	25		Get Data	1686773740129	1686773740222	KO	status.find.is(200), but actually found 401
+REQUEST	32		Get Data	1686773740129	1686773740223	KO	status.find.is(200), but actually found 401
+REQUEST	22		Get Data	1686773740126	1686773740225	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	41	START	1686773740248	1686773740248
+REQUEST	33		Get Data	1686773740159	1686773740251	KO	status.find.is(200), but actually found 401
+REQUEST	9		Get Data	1686773740189	1686773740280	KO	status.find.is(200), but actually found 401
+REQUEST	26		Get Data	1686773740202	1686773740300	KO	status.find.is(200), but actually found 401
+REQUEST	40		Get Data	1686773740081	1686773740339	KO	status.find.is(200), but actually found 401
+REQUEST	34		Get Data	1686773740279	1686773740372	KO	status.find.is(200), but actually found 401
+REQUEST	20		Get Data	1686773740309	1686773740403	KO	status.find.is(200), but actually found 401
+REQUEST	19		Get Data	1686773740309	1686773740406	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	42	START	1686773740418	1686773740418
+REQUEST	41		Get Data	1686773740250	1686773740431	KO	status.find.is(200), but actually found 401
+REQUEST	27		Get Data	1686773740419	1686773740514	KO	status.find.is(200), but actually found 401
+REQUEST	35		Get Data	1686773740446	1686773740539	KO	status.find.is(200), but actually found 401
+REQUEST	6		Get Data	1686773740447	1686773740540	KO	status.find.is(200), but actually found 401
+USER	Get Data Scenario	43	START	1686773740587	1686773740587
+REQUEST	21		Get Data	1686773740493	1686773740588	KO	status.find.is(200), but actually found 401
+REQUEST	28		Get Data	1686773740510	1686773740602	KO	status.find.is(200), but actually found 401
+REQUEST	1		Get Data	1686773740509	1686773740603	KO	status.find.is(200), but actually found 401
+REQUEST	42		Get Data	1686773740420	1686773740660	KO	

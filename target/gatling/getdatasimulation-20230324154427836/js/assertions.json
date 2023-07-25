@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.Browser.GetDataSimulation",
+  "simulationId": "getdatasimulation",
+  "start": 1679672667836,
+  "description": "Testing APM - Grafana",
+  "scenarios": ["Get Data Scenario"],
+  "assertions": [
+
+  ]
+}

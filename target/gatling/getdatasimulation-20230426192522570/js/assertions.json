@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.Browser.GetDataSimulation",
+  "simulationId": "getdatasimulation",
+  "start": 1682537122570,
+  "description": "Testing",
+  "scenarios": ["Get Data Scenario"],
+  "assertions": [
+
+  ]
+}
