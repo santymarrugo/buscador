@@ -18,10 +18,7 @@ class GetTokenSimulation extends Simulation{
     setUp(getTokenExec)
       // .maxDuration(10 seconds)
       .maxDuration(testDuration seconds)
-
-  //esto es una prueba
-
-  }
+}
 
   //mvn gatling:test -Dgatling.simulationClass=simulations.GetTokenSimulation -DUSERS=1 -DRAMP_DURATION=10 -DDURATION=5 -DENVIRONMENT=qa
   //mvn gatling:test -Dgatling.simulationClass=simulations.SearchAutocomplete.GetAllTopSimulation -DUSERS=10 -DRAMP_DURATION=1 -DURATION=10 -DENVIRONMENT=pre
