@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.Browser.GetDataSimulation",
+  "simulationId": "getdatasimulation",
+  "start": 1691001175131,
+  "description": "",
+  "scenarios": ["Get Data Scenario"],
+  "assertions": [
+
+  ]
+}

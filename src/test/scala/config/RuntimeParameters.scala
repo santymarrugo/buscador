@@ -8,9 +8,9 @@ object RuntimeParameters {
       .getOrElse(defaultValue)
   }
 
-  def userCount: Int = getProperty("USERS", "10").toInt
-  def rampDuration: Int = getProperty("RAMP_DURATION", "10").toInt
-  def testDuration: Int = getProperty("DURATION", "40").toInt
+  def userCount: Int = getProperty("USERS", "300").toInt
+  def rampDuration: Int = getProperty("RAMP_DURATION", "30").toInt
+  def testDuration: Int = getProperty("DURATION", "300").toInt
   def environment: String = getProperty("ENVIRONMENT", "qa")
 
 

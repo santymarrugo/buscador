@@ -35,6 +35,7 @@ object GetDataRequest {
 
       )//.exec( session => {println(session("tokens").as[String]);session}
   }
+    //Se selecciona un tiempo en 3 y 5 segundos para realizar la peticion o interaccion con el servicio
     .pause(1)
 
 }

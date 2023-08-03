@@ -1,0 +1,357 @@
+RUN	scala.simulations.Browser.GetDataSimulation	getdatasimulation	1691002916985	 	3.3.1
+USER	Get Data Scenario	1	START	1691002918335	1691002918335
+USER	Get Data Scenario	2	START	1691002918411	1691002918411
+USER	Get Data Scenario	3	START	1691002918500	1691002918500
+USER	Get Data Scenario	4	START	1691002918563	1691002918563
+USER	Get Data Scenario	5	START	1691002918639	1691002918639
+USER	Get Data Scenario	6	START	1691002918701	1691002918701
+USER	Get Data Scenario	7	START	1691002918777	1691002918777
+USER	Get Data Scenario	8	START	1691002918841	1691002918841
+USER	Get Data Scenario	9	START	1691002918917	1691002918917
+USER	Get Data Scenario	10	START	1691002918994	1691002918994
+USER	Get Data Scenario	11	START	1691002919061	1691002919061
+USER	Get Data Scenario	12	START	1691002919133	1691002919133
+USER	Get Data Scenario	13	START	1691002919210	1691002919210
+USER	Get Data Scenario	14	START	1691002919273	1691002919273
+USER	Get Data Scenario	15	START	1691002919351	1691002919351
+USER	Get Data Scenario	16	START	1691002919428	1691002919428
+USER	Get Data Scenario	17	START	1691002919505	1691002919505
+USER	Get Data Scenario	18	START	1691002919581	1691002919581
+USER	Get Data Scenario	19	START	1691002919659	1691002919659
+USER	Get Data Scenario	20	START	1691002919737	1691002919737
+USER	Get Data Scenario	21	START	1691002919801	1691002919801
+USER	Get Data Scenario	22	START	1691002919902	1691002919902
+USER	Get Data Scenario	23	START	1691002919969	1691002919969
+USER	Get Data Scenario	24	START	1691002920047	1691002920047
+USER	Get Data Scenario	25	START	1691002920111	1691002920111
+USER	Get Data Scenario	26	START	1691002920191	1691002920191
+USER	Get Data Scenario	27	START	1691002920280	1691002920280
+USER	Get Data Scenario	28	START	1691002920342	1691002920342
+USER	Get Data Scenario	29	START	1691002920404	1691002920404
+USER	Get Data Scenario	30	START	1691002920481	1691002920481
+USER	Get Data Scenario	31	START	1691002920561	1691002920561
+USER	Get Data Scenario	32	START	1691002920657	1691002920657
+USER	Get Data Scenario	33	START	1691002920712	1691002920712
+USER	Get Data Scenario	34	START	1691002920791	1691002920791
+USER	Get Data Scenario	35	START	1691002920871	1691002920871
+USER	Get Data Scenario	36	START	1691002920945	1691002920945
+USER	Get Data Scenario	37	START	1691002921022	1691002921022
+USER	Get Data Scenario	38	START	1691002921101	1691002921101
+USER	Get Data Scenario	39	START	1691002921179	1691002921179
+USER	Get Data Scenario	40	START	1691002921257	1691002921257
+USER	Get Data Scenario	41	START	1691002921335	1691002921335
+USER	Get Data Scenario	42	START	1691002921412	1691002921412
+USER	Get Data Scenario	43	START	1691002921490	1691002921490
+USER	Get Data Scenario	44	START	1691002921552	1691002921552
+USER	Get Data Scenario	45	START	1691002921631	1691002921631
+USER	Get Data Scenario	46	START	1691002921708	1691002921708
+USER	Get Data Scenario	47	START	1691002921771	1691002921771
+USER	Get Data Scenario	48	START	1691002921848	1691002921848
+USER	Get Data Scenario	49	START	1691002921911	1691002921911
+USER	Get Data Scenario	50	START	1691002921988	1691002921988
+USER	Get Data Scenario	51	START	1691002922051	1691002922051
+USER	Get Data Scenario	52	START	1691002922131	1691002922131
+USER	Get Data Scenario	53	START	1691002922206	1691002922206
+USER	Get Data Scenario	54	START	1691002922271	1691002922271
+USER	Get Data Scenario	55	START	1691002922344	1691002922344
+USER	Get Data Scenario	56	START	1691002922422	1691002922422
+USER	Get Data Scenario	57	START	1691002922500	1691002922500
+USER	Get Data Scenario	58	START	1691002922576	1691002922576
+USER	Get Data Scenario	59	START	1691002922655	1691002922655
+USER	Get Data Scenario	60	START	1691002922732	1691002922732
+USER	Get Data Scenario	61	START	1691002922810	1691002922810
+USER	Get Data Scenario	62	START	1691002922887	1691002922887
+USER	Get Data Scenario	63	START	1691002922965	1691002922965
+USER	Get Data Scenario	64	START	1691002923031	1691002923031
+USER	Get Data Scenario	65	START	1691002923121	1691002923121
+USER	Get Data Scenario	66	START	1691002923198	1691002923198
+USER	Get Data Scenario	67	START	1691002923261	1691002923261
+USER	Get Data Scenario	68	START	1691002923341	1691002923341
+USER	Get Data Scenario	69	START	1691002923431	1691002923431
+USER	Get Data Scenario	70	START	1691002923518	1691002923518
+USER	Get Data Scenario	71	START	1691002923596	1691002923596
+USER	Get Data Scenario	72	START	1691002923661	1691002923661
+USER	Get Data Scenario	73	START	1691002923751	1691002923751
+USER	Get Data Scenario	74	START	1691002923828	1691002923828
+USER	Get Data Scenario	75	START	1691002923891	1691002923891
+USER	Get Data Scenario	76	START	1691002923971	1691002923971
+USER	Get Data Scenario	77	START	1691002924051	1691002924051
+USER	Get Data Scenario	78	START	1691002924124	1691002924124
+USER	Get Data Scenario	79	START	1691002924202	1691002924202
+USER	Get Data Scenario	80	START	1691002924281	1691002924281
+USER	Get Data Scenario	81	START	1691002924361	1691002924361
+USER	Get Data Scenario	82	START	1691002924421	1691002924421
+USER	Get Data Scenario	83	START	1691002924496	1691002924496
+USER	Get Data Scenario	84	START	1691002924561	1691002924561
+USER	Get Data Scenario	85	START	1691002924634	1691002924634
+USER	Get Data Scenario	86	START	1691002924701	1691002924701
+USER	Get Data Scenario	87	START	1691002924773	1691002924773
+USER	Get Data Scenario	88	START	1691002924851	1691002924851
+USER	Get Data Scenario	89	START	1691002924927	1691002924927
+USER	Get Data Scenario	90	START	1691002924991	1691002924991
+USER	Get Data Scenario	91	START	1691002925067	1691002925067
+USER	Get Data Scenario	92	START	1691002925131	1691002925131
+USER	Get Data Scenario	93	START	1691002925206	1691002925206
+USER	Get Data Scenario	94	START	1691002925271	1691002925271
+USER	Get Data Scenario	95	START	1691002925361	1691002925361
+USER	Get Data Scenario	96	START	1691002925423	1691002925423
+USER	Get Data Scenario	97	START	1691002925501	1691002925501
+USER	Get Data Scenario	98	START	1691002925581	1691002925581
+USER	Get Data Scenario	99	START	1691002925656	1691002925656
+USER	Get Data Scenario	100	START	1691002925731	1691002925731
+USER	Get Data Scenario	101	START	1691002925811	1691002925811
+USER	Get Data Scenario	102	START	1691002925885	1691002925885
+USER	Get Data Scenario	103	START	1691002925962	1691002925962
+USER	Get Data Scenario	104	START	1691002926042	1691002926042
+USER	Get Data Scenario	105	START	1691002926117	1691002926117
+USER	Get Data Scenario	106	START	1691002926196	1691002926196
+USER	Get Data Scenario	107	START	1691002926274	1691002926274
+USER	Get Data Scenario	108	START	1691002926353	1691002926353
+USER	Get Data Scenario	109	START	1691002926430	1691002926430
+USER	Get Data Scenario	110	START	1691002926509	1691002926509
+USER	Get Data Scenario	111	START	1691002926571	1691002926571
+USER	Get Data Scenario	112	START	1691002926651	1691002926651
+USER	Get Data Scenario	113	START	1691002926741	1691002926741
+USER	Get Data Scenario	114	START	1691002926803	1691002926803
+USER	Get Data Scenario	115	START	1691002926881	1691002926881
+USER	Get Data Scenario	116	START	1691002926961	1691002926961
+USER	Get Data Scenario	117	START	1691002927041	1691002927041
+USER	Get Data Scenario	118	START	1691002927114	1691002927114
+USER	Get Data Scenario	119	START	1691002927193	1691002927193
+USER	Get Data Scenario	120	START	1691002927271	1691002927271
+USER	Get Data Scenario	121	START	1691002927347	1691002927347
+USER	Get Data Scenario	122	START	1691002927408	1691002927408
+USER	Get Data Scenario	123	START	1691002927471	1691002927471
+USER	Get Data Scenario	124	START	1691002927547	1691002927547
+USER	Get Data Scenario	125	START	1691002927611	1691002927611
+USER	Get Data Scenario	126	START	1691002927691	1691002927691
+USER	Get Data Scenario	127	START	1691002927764	1691002927764
+USER	Get Data Scenario	128	START	1691002927842	1691002927842
+USER	Get Data Scenario	129	START	1691002927902	1691002927902
+USER	Get Data Scenario	130	START	1691002927980	1691002927980
+USER	Get Data Scenario	131	START	1691002928042	1691002928042
+USER	Get Data Scenario	132	START	1691002928118	1691002928118
+USER	Get Data Scenario	133	START	1691002928194	1691002928194
+USER	Get Data Scenario	134	START	1691002928261	1691002928261
+USER	Get Data Scenario	135	START	1691002928334	1691002928334
+USER	Get Data Scenario	136	START	1691002928426	1691002928426
+USER	Get Data Scenario	137	START	1691002928502	1691002928502
+USER	Get Data Scenario	138	START	1691002928580	1691002928580
+USER	Get Data Scenario	139	START	1691002928658	1691002928658
+USER	Get Data Scenario	140	START	1691002928736	1691002928736
+USER	Get Data Scenario	141	START	1691002928801	1691002928801
+USER	Get Data Scenario	142	START	1691002928891	1691002928891
+USER	Get Data Scenario	143	START	1691002928968	1691002928968
+USER	Get Data Scenario	144	START	1691002929031	1691002929031
+USER	Get Data Scenario	145	START	1691002929111	1691002929111
+USER	Get Data Scenario	146	START	1691002929199	1691002929199
+USER	Get Data Scenario	147	START	1691002929277	1691002929277
+USER	Get Data Scenario	148	START	1691002929341	1691002929341
+USER	Get Data Scenario	149	START	1691002929421	1691002929421
+USER	Get Data Scenario	150	START	1691002929509	1691002929509
+USER	Get Data Scenario	151	START	1691002929585	1691002929585
+USER	Get Data Scenario	152	START	1691002929651	1691002929651
+USER	Get Data Scenario	153	START	1691002929740	1691002929740
+USER	Get Data Scenario	154	START	1691002929818	1691002929818
+USER	Get Data Scenario	155	START	1691002929881	1691002929881
+USER	Get Data Scenario	156	START	1691002929961	1691002929961
+USER	Get Data Scenario	157	START	1691002930050	1691002930050
+USER	Get Data Scenario	158	START	1691002930112	1691002930112
+USER	Get Data Scenario	159	START	1691002930191	1691002930191
+USER	Get Data Scenario	160	START	1691002930271	1691002930271
+USER	Get Data Scenario	161	START	1691002930361	1691002930361
+USER	Get Data Scenario	162	START	1691002930422	1691002930422
+USER	Get Data Scenario	163	START	1691002930499	1691002930499
+USER	Get Data Scenario	164	START	1691002930561	1691002930561
+USER	Get Data Scenario	165	START	1691002930637	1691002930637
+USER	Get Data Scenario	166	START	1691002930701	1691002930701
+USER	Get Data Scenario	167	START	1691002930776	1691002930776
+USER	Get Data Scenario	168	START	1691002930853	1691002930853
+USER	Get Data Scenario	169	START	1691002930930	1691002930930
+USER	Get Data Scenario	170	START	1691002930991	1691002930991
+USER	Get Data Scenario	171	START	1691002931069	1691002931069
+USER	Get Data Scenario	172	START	1691002931131	1691002931131
+USER	Get Data Scenario	173	START	1691002931208	1691002931208
+USER	Get Data Scenario	174	START	1691002931271	1691002931271
+USER	Get Data Scenario	175	START	1691002931351	1691002931351
+USER	Get Data Scenario	176	START	1691002931425	1691002931425
+USER	Get Data Scenario	177	START	1691002931503	1691002931503
+USER	Get Data Scenario	178	START	1691002931580	1691002931580
+USER	Get Data Scenario	179	START	1691002931657	1691002931657
+USER	Get Data Scenario	180	START	1691002931734	1691002931734
+USER	Get Data Scenario	181	START	1691002931813	1691002931813
+USER	Get Data Scenario	182	START	1691002931890	1691002931890
+USER	Get Data Scenario	183	START	1691002931969	1691002931969
+USER	Get Data Scenario	184	START	1691002932047	1691002932047
+USER	Get Data Scenario	185	START	1691002932111	1691002932111
+USER	Get Data Scenario	186	START	1691002932201	1691002932201
+USER	Get Data Scenario	187	START	1691002932279	1691002932279
+USER	Get Data Scenario	188	START	1691002932342	1691002932342
+USER	Get Data Scenario	189	START	1691002932404	1691002932404
+USER	Get Data Scenario	190	START	1691002932482	1691002932482
+USER	Get Data Scenario	191	START	1691002932561	1691002932561
+USER	Get Data Scenario	192	START	1691002932641	1691002932641
+USER	Get Data Scenario	193	START	1691002932724	1691002932724
+USER	Get Data Scenario	194	START	1691002932794	1691002932794
+USER	Get Data Scenario	195	START	1691002932871	1691002932871
+USER	Get Data Scenario	196	START	1691002932947	1691002932947
+USER	Get Data Scenario	197	START	1691002933026	1691002933026
+USER	Get Data Scenario	198	START	1691002933103	1691002933103
+USER	Get Data Scenario	199	START	1691002933181	1691002933181
+USER	Get Data Scenario	200	START	1691002933260	1691002933260
+USER	Get Data Scenario	201	START	1691002933336	1691002933336
+USER	Get Data Scenario	202	START	1691002933401	1691002933401
+USER	Get Data Scenario	203	START	1691002933476	1691002933476
+USER	Get Data Scenario	204	START	1691002933541	1691002933541
+USER	Get Data Scenario	205	START	1691002933621	1691002933621
+USER	Get Data Scenario	206	START	1691002933693	1691002933693
+USER	Get Data Scenario	207	START	1691002933769	1691002933769
+USER	Get Data Scenario	208	START	1691002933831	1691002933831
+USER	Get Data Scenario	209	START	1691002933908	1691002933908
+USER	Get Data Scenario	210	START	1691002933971	1691002933971
+USER	Get Data Scenario	211	START	1691002934047	1691002934047
+USER	Get Data Scenario	212	START	1691002934125	1691002934125
+USER	Get Data Scenario	213	START	1691002934191	1691002934191
+USER	Get Data Scenario	214	START	1691002934263	1691002934263
+USER	Get Data Scenario	215	START	1691002934340	1691002934340
+USER	Get Data Scenario	216	START	1691002934402	1691002934402
+USER	Get Data Scenario	217	START	1691002934481	1691002934481
+USER	Get Data Scenario	218	START	1691002934561	1691002934561
+USER	Get Data Scenario	219	START	1691002934634	1691002934634
+USER	Get Data Scenario	220	START	1691002934711	1691002934711
+USER	Get Data Scenario	221	START	1691002934791	1691002934791
+USER	Get Data Scenario	222	START	1691002934864	1691002934864
+USER	Get Data Scenario	223	START	1691002934942	1691002934942
+USER	Get Data Scenario	224	START	1691002935021	1691002935021
+USER	Get Data Scenario	225	START	1691002935111	1691002935111
+USER	Get Data Scenario	226	START	1691002935173	1691002935173
+USER	Get Data Scenario	227	START	1691002935271	1691002935271
+USER	Get Data Scenario	228	START	1691002935360	1691002935360
+USER	Get Data Scenario	229	START	1691002935423	1691002935423
+USER	Get Data Scenario	230	START	1691002935501	1691002935501
+USER	Get Data Scenario	231	START	1691002935581	1691002935581
+USER	Get Data Scenario	232	START	1691002935656	1691002935656
+USER	Get Data Scenario	233	START	1691002935732	1691002935732
+USER	Get Data Scenario	234	START	1691002935811	1691002935811
+USER	Get Data Scenario	235	START	1691002935886	1691002935886
+USER	Get Data Scenario	236	START	1691002935963	1691002935963
+USER	Get Data Scenario	237	START	1691002936041	1691002936041
+USER	Get Data Scenario	238	START	1691002936118	1691002936118
+USER	Get Data Scenario	239	START	1691002936194	1691002936194
+USER	Get Data Scenario	240	START	1691002936273	1691002936273
+USER	Get Data Scenario	241	START	1691002936351	1691002936351
+USER	Get Data Scenario	242	START	1691002936428	1691002936428
+USER	Get Data Scenario	243	START	1691002936491	1691002936491
+USER	Get Data Scenario	244	START	1691002936566	1691002936566
+USER	Get Data Scenario	245	START	1691002936631	1691002936631
+USER	Get Data Scenario	246	START	1691002936706	1691002936706
+USER	Get Data Scenario	247	START	1691002936771	1691002936771
+USER	Get Data Scenario	248	START	1691002936861	1691002936861
+USER	Get Data Scenario	249	START	1691002936924	1691002936924
+USER	Get Data Scenario	250	START	1691002937000	1691002937000
+USER	Get Data Scenario	251	START	1691002937063	1691002937063
+USER	Get Data Scenario	252	START	1691002937140	1691002937140
+USER	Get Data Scenario	253	START	1691002937201	1691002937201
+USER	Get Data Scenario	254	START	1691002937278	1691002937278
+USER	Get Data Scenario	255	START	1691002937355	1691002937355
+USER	Get Data Scenario	256	START	1691002937421	1691002937421
+USER	Get Data Scenario	257	START	1691002937495	1691002937495
+USER	Get Data Scenario	258	START	1691002937573	1691002937573
+USER	Get Data Scenario	259	START	1691002937651	1691002937651
+USER	Get Data Scenario	260	START	1691002937731	1691002937731
+USER	Get Data Scenario	261	START	1691002937803	1691002937803
+USER	Get Data Scenario	262	START	1691002937881	1691002937881
+USER	Get Data Scenario	263	START	1691002937961	1691002937961
+USER	Get Data Scenario	264	START	1691002938039	1691002938039
+USER	Get Data Scenario	265	START	1691002938115	1691002938115
+USER	Get Data Scenario	266	START	1691002938193	1691002938193
+USER	Get Data Scenario	267	START	1691002938272	1691002938272
+USER	Get Data Scenario	268	START	1691002938349	1691002938349
+USER	Get Data Scenario	269	START	1691002938401	1691002938401
+USER	Get Data Scenario	270	START	1691002938488	1691002938488
+USER	Get Data Scenario	271	START	1691002938565	1691002938565
+USER	Get Data Scenario	272	START	1691002938631	1691002938631
+USER	Get Data Scenario	273	START	1691002938711	1691002938711
+USER	Get Data Scenario	274	START	1691002938800	1691002938800
+USER	Get Data Scenario	275	START	1691002938878	1691002938878
+USER	Get Data Scenario	276	START	1691002938941	1691002938941
+USER	Get Data Scenario	277	START	1691002939021	1691002939021
+USER	Get Data Scenario	278	START	1691002939111	1691002939111
+USER	Get Data Scenario	279	START	1691002939173	1691002939173
+USER	Get Data Scenario	280	START	1691002939252	1691002939252
+USER	Get Data Scenario	281	START	1691002939331	1691002939331
+USER	Get Data Scenario	282	START	1691002939425	1691002939425
+USER	Get Data Scenario	283	START	1691002939491	1691002939491
+REQUEST	279		Get Data	1691002939174	1691002939460	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	280		Get Data	1691002939252	1691002939558	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	284	START	1691002939565	1691002939565
+USER	Get Data Scenario	285	START	1691002939631	1691002939631
+REQUEST	281		Get Data	1691002939332	1691002939652	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	286	START	1691002939706	1691002939706
+REQUEST	282		Get Data	1691002939427	1691002939707	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	283		Get Data	1691002939492	1691002939715	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	287	START	1691002939771	1691002939771
+REQUEST	285		Get Data	1691002939632	1691002939844	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	284		Get Data	1691002939567	1691002939854	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	288	START	1691002939859	1691002939859
+USER	Get Data Scenario	289	START	1691002939921	1691002939921
+REQUEST	286		Get Data	1691002939707	1691002939974	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	287		Get Data	1691002939772	1691002939983	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	290	START	1691002939998	1691002939998
+USER	Get Data Scenario	291	START	1691002940061	1691002940061
+REQUEST	288		Get Data	1691002939860	1691002940087	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	289		Get Data	1691002939922	1691002940136	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	292	START	1691002940137	1691002940137
+USER	Get Data Scenario	293	START	1691002940201	1691002940201
+REQUEST	291		Get Data	1691002940062	1691002940277	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	294	START	1691002940278	1691002940278
+REQUEST	290		Get Data	1691002939999	1691002940281	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	295	START	1691002940356	1691002940356
+REQUEST	292		Get Data	1691002940138	1691002940357	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	293		Get Data	1691002940202	1691002940406	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	296	START	1691002940418	1691002940418
+USER	Get Data Scenario	297	START	1691002940481	1691002940481
+REQUEST	294		Get Data	1691002940278	1691002940499	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	298	START	1691002940561	1691002940561
+REQUEST	295		Get Data	1691002940357	1691002940576	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	296		Get Data	1691002940419	1691002940633	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	299	START	1691002940649	1691002940649
+REQUEST	297		Get Data	1691002940482	1691002940701	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	300	START	1691002940711	1691002940711
+USER	Get Data Scenario	301	START	1691002940791	1691002940791
+REQUEST	298		Get Data	1691002940562	1691002940850	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	299		Get Data	1691002940650	1691002940856	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	302	START	1691002940871	1691002940871
+REQUEST	300		Get Data	1691002940712	1691002940929	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	303	START	1691002940959	1691002940959
+REQUEST	301		Get Data	1691002940792	1691002941009	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	304	START	1691002941021	1691002941021
+REQUEST	302		Get Data	1691002940872	1691002941088	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	305	START	1691002941101	1691002941101
+REQUEST	303		Get Data	1691002940959	1691002941176	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	306	START	1691002941191	1691002941191
+REQUEST	304		Get Data	1691002941022	1691002941249	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	307	START	1691002941253	1691002941253
+REQUEST	305		Get Data	1691002941102	1691002941319	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	308	START	1691002941332	1691002941332
+REQUEST	306		Get Data	1691002941192	1691002941399	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	309	START	1691002941411	1691002941411
+USER	Get Data Scenario	310	START	1691002941501	1691002941501
+REQUEST	307		Get Data	1691002941254	1691002941546	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	308		Get Data	1691002941332	1691002941563	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	311	START	1691002941581	1691002941581
+REQUEST	309		Get Data	1691002941412	1691002941644	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	312	START	1691002941656	1691002941656
+USER	Get Data Scenario	313	START	1691002941733	1691002941733
+REQUEST	310		Get Data	1691002941501	1691002941749	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	311		Get Data	1691002941582	1691002941800	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	314	START	1691002941811	1691002941811
+REQUEST	312		Get Data	1691002941657	1691002941876	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	315	START	1691002941889	1691002941889
+REQUEST	313		Get Data	1691002941734	1691002941967	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	316	START	1691002941968	1691002941968
+REQUEST	314		Get Data	1691002941812	1691002942009	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+USER	Get Data Scenario	317	START	1691002942045	1691002942045
+USER	Get Data Scenario	318	START	1691002942111	1691002942111
+REQUEST	315		Get Data	1691002941891	1691002942125	KO	jsonPath($).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.d.e.MismatchedInputException: No content to map due to end-of-input  at [Source: (io.gatling.commons.util.FastByteArrayInputStream); line: 1, column: 0]
+REQUEST	316		Get Data	1691002941969	1691002942183	KO	
