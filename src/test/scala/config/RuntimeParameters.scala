@@ -19,5 +19,6 @@ object RuntimeParameters {
   println("Total test duration: " + testDuration + " seconds")
   println("Test environment: " + environment )
 
+  //Esto es un comentario
 
 }
