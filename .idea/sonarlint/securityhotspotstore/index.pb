@@ -11,3 +11,9 @@ f
 6src/test/scala/scenarios/Browser/GetDataScenario.scala,1\3\137c5c235cbe2219f4cabbb915d96dccfae969ed
 j
 :src/test/scala/simulations/Browser/GetDataSimulation.scala,2\1\2157c0f2cb6b8019a77b6015687c0da29ee7d173
+K
+src/test/scala/Engine.scala,a\f\af37ed0e349767214ac236dbb26155c1873968f7
+d
+4src/test/scala/requests/Browser/GetDataRequest.scala,7\f\7fa83035a6ce6be482ab8e8b93e4ceb964c6dd68
+]
+-src/test/scala/config/RuntimeParameters.scala,b\a\ba897ceba0243967229ece1bf94649a131f0251c
